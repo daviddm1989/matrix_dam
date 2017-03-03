@@ -17,6 +17,8 @@ public class Matrix_dam {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Cabesahuevo");
+        System.out.println("que no quiero hotia");
+        System.out.println("Te funciona? por que a ivan no ");
     }
     
 }
